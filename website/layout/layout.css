@@ -1,0 +1,12 @@
+.foot {
+    background-color: #3cd2ec;
+    justify-content: center;
+    text-align: center;
+    display: block;
+    align-items: center;
+    height: 200px;
+}
+
+.form-control {
+    max-width: 250px;
+}
